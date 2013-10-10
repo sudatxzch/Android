@@ -1,0 +1,7 @@
+on boot
+
+    insmod /system/sps/IT7260/ko/ctp_it7260.ko
+
+service ctpcali /system/bin/ctpcali
+    user root
+    oneshot

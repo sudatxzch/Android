@@ -1,0 +1,4 @@
+on boot
+
+    insmod /system/sps/FT5206_khr/ko/ft5206_ts.ko
+

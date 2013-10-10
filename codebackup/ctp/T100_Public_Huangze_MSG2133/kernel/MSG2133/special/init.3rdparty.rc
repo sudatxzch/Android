@@ -1,0 +1,4 @@
+on boot
+
+    insmod /system/sps/MSG2133/ko/msg2133_ts.ko
+

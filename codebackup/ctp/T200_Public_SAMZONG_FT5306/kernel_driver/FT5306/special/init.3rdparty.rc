@@ -1,0 +1,3 @@
+on boot
+    insmod /system/sps/FT5306/ko/ft5306_ts.ko
+
